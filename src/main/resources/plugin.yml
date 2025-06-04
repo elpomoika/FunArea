@@ -1,0 +1,6 @@
+name: FunArea
+version: '${version}'
+main: me.elpomoika.funarea.FunArea
+api-version: '1.16'
+commands:
+  area: {}

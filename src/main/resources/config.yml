@@ -1,0 +1,32 @@
+menu:
+  sword:
+    displayname: "&4На арену"
+    lore:
+      - "&fТелепортирует вас"
+      - "&fпрямо на арену."
+    command: "/warp arena"
+  glasses:
+    first:
+      material: "RED_STAINED_GLASS_PANE"
+      displayname: "Напиши что то здесь, пожалуйста"
+    second:
+      material: "ORANGE_STAINED_GLASS_PANE"
+      displayname: "Напиши что то здесь, пожалуйста"
+  book:
+    displayname: "&4&lИнформация"
+    lore:
+      - "Some information"
+
+arena:
+  min:
+    x: 0
+    y: 0
+    z: 0
+  max:
+    x: 100
+    y: 100
+    z: 100
+  world: "world"
+
+message:
+  non-full-netherite-armor: "&4Оденьте полностью незеритовую броню"
